@@ -1,2 +1,1 @@
-# file-manager-password.txt
-Brute attack fb
+# https://github.com/sajjad-hacker/bruteattackfb/
